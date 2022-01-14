@@ -1,0 +1,10 @@
+webrtc:
+  key: skyway  #Your SkyWay API key
+  config: #未使用
+    iceServers: #未使用
+      - url: stun:stun.skyway.io:3478
+      - url: turn:homeo@turn.bistri.com:80
+        credential: homeo
+password:
+ pass: MegaHeracross
+dice: #未使用
